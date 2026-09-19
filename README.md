@@ -2,6 +2,10 @@
 
 Website project untuk Study Case GitReady 2.0 yang mensimulasikan workflow kolaborasi developer menggunakan Git dan GitHub.
 
+<img width="1470" height="956" alt="Screenshot 2026-09-19 at 13 11 03" src="https://github.com/user-attachments/assets/e7c6397c-b38d-4646-bf99-a105b5826248" />
+
+
+
 ## Visualisasi
 
 Buka `index.html` menggunakan browser untuk melihat website.
