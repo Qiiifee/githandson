@@ -42,7 +42,9 @@ Buka `index.html` menggunakan browser untuk melihat website.
 - Menambahkan interaksi website
 - Menghubungkan JavaScript dengan `index.html`
 
-> Ganti nama anggota dan username GitHub sesuai anggota kelompok sebelum submission.
+@Qiiifee
+@vinzadiass
+@lorenzorichi1405-design
 
 ## What I Learned
 
